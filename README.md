@@ -1,9 +1,5 @@
 # GetYourFeeds - A RSS Reader
 
-## Motivation
-
-Undertaken as part of a take home assignment, courtesy of Avoma.
-
 ## What does it do?
 
 The app is a simple SPA RSS Reader created with React. It accepts an RSS Feed, and displays the information retrieved from the feed onto the app. Simple as that!
